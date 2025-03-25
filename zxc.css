@@ -1,0 +1,565 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.conta {
+  width: 1200px;
+  /* display: flex;
+  justify-content: center; */
+  margin: 0 auto;
+}
+.ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+
+  text-align: center;
+}
+.l1 {
+  width: 400px;
+  height: 395px;
+  padding-top: 75px;
+  padding-bottom: 70px;
+  padding-left: 42px;
+  padding-right: 41px;
+}
+.h2li {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 39px;
+  text-align: center;
+  letter-spacing: 0.22px;
+  color: #292f36;
+}
+.pli {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  text-align: center;
+  letter-spacing: 0.22px;
+  color: #4d5053;
+}
+.a1 {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  text-align: center;
+  letter-spacing: 0.36px;
+  color: #4d5053;
+}
+.l2 {
+  width: 400px;
+  height: 395px;
+  padding-top: 75px;
+  padding-bottom: 103px;
+  padding-left: 52px;
+  padding-right: 51px;
+}
+.l2h2 {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 39px;
+  text-align: center;
+  letter-spacing: 0.22px;
+  color: #292f36;
+}
+.p2li {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  text-align: center;
+  letter-spacing: 0.22px;
+  color: #4d5053;
+}
+.a2 {
+  /* View More */
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 0.36px;
+  color: #4d5053;
+}
+.l3 {
+  width: 400px;
+  height: 395px;
+  padding-top: 75px;
+  padding-bottom: 70px;
+  padding-left: 52px;
+  padding-right: 52px;
+}
+.h3 {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 39px;
+  /* identical to box height, or 156% */
+  text-align: center;
+  letter-spacing: 0.22px;
+  color: #292f36;
+}
+.p3 {
+  /* Thin object any finished material applied over a floor structure to provide a walking surface. */
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* or 150% */
+  text-align: center;
+  letter-spacing: 0.22px;
+  color: #4d5053;
+}
+.a3 {
+  /* View More */
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 0.36px;
+  color: #4d5053;
+}
+.div11 {
+  padding-top: 48px;
+  padding-bottom: 70px;
+}
+.div22 {
+  padding-top: 15px;
+  padding-bottom: 103px;
+}
+.div33 {
+  padding-top: 15px;
+  padding-bottom: 70px;
+}
+.img1 {
+  padding-left: 6px;
+}
+.img2 {
+  padding-left: 6px;
+}
+.img3 {
+  padding-left: 6px;
+}
+.dir {
+  display: flex;
+  justify-content: center;
+}
+.h33 {
+  padding-right: 158px;
+  padding-top: 42px;
+
+  width: 610px;
+
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 65px;
+  /* or 130% */
+  letter-spacing: 0.22px;
+
+  color: #292f36;
+}
+.ppp {
+  padding-top: 42px;
+  padding-right: 77px;
+
+  /* The world needs innovators and problem solvers who turn challenges into greater opportunities. We have */
+  width: 590px;
+
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* or 150% */
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
+}
+.pp2 {
+  width: 492px;
+  height: 66px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* or 150% */
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
+}
+.pxp {
+  /* 012345678 */
+
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
+}
+.pyp {
+  /* Call Us Anytime */
+
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
+}
+
+.img {
+  display: flex;
+  justify-content: center;
+}
+.eee {
+  margin-top: 40px;
+
+  display: flex;
+}
+.qqq {
+  width: 93px;
+  height: 93px;
+  padding-right: 20px;
+}
+.sec2 {
+  padding-top: 60px;
+}
+.g {
+  width: 592px;
+  height: 635px;
+}
+
+.bbuutt {
+  background-color: rgba(41, 47, 54, 1);
+  width: 263px;
+  border-radius: 18px;
+  height: 71px;
+  /* Get Free Estimate */
+
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.72px;
+
+  color: #ffffff;
+}
+.iii {
+  padding-right: 345px;
+  padding-bottom: 37px;
+  padding-top: 40px;
+}
+.iil {
+  padding-top: 10px;
+
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 47px;
+  line-height: 62px;
+  /* identical to box height, or 133% */
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #292f36;
+}
+.yyr {
+  padding-top: 20px;
+
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
+}
+.yrr {
+  padding-bottom: 74px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
+}
+.sss {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+.lll {
+  padding-top: 24px;
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 38px;
+  /* identical to box height, or 156% */
+  letter-spacing: 0.22px;
+
+  color: #292f36;
+}
+.jjj {
+  /* padding-bottom: 61px; */
+  padding-bottom: 60px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
+}
+.jkj {
+  padding-top: 24.19px;
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.22px;
+
+  color: #292f36;
+}
+.uuk {
+  display: flex;
+  padding-bottom: 60.81px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
+}
+.hhht {
+  padding-top: 24px;
+
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.22px;
+
+  color: #292f36;
+}
+.iik {
+  padding-bottom: 60px;
+
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
+}
+.tttk {
+  padding-top: 24px;
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 38px;
+  /* identical to box height, or 156% */
+  letter-spacing: 0.22px;
+
+  color: #292f36;
+}
+.jjy {
+  padding-bottom: 60px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height, or 150% */
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
+}
+.qqg {
+  width: 590px;
+  /* padding-right:20px ; */
+}
+.hhyj {
+  width: 590px;
+}
+.ooi {
+  width: 590px;
+}
+.ggi {
+  width: 590px;
+}
+/* .uukn{
+    display: flex;
+   
+} */
+.hhpp {
+  width: 70px;
+  display: flex;
+}
+.jjkkk {
+  padding-right: 20px;
+}
+.gsfs {
+  background: #f4f0ec;
+  border-radius: 0px;
+  /* width: 1440px; */
+
+  display: flex;
+  justify-content: center;
+}
+.ululul {
+  list-style: none;
+  display: flex;
+}
+.kokk {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 85px;
+  line-height: 128px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 1.7px;
+
+  color: #cda274;
+}
+.pepe {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
+}
+.li11:not(:last-child) {
+  border-right: 1px solid rgba(205, 162, 116, 1);
+}
+.li11 {
+  width: 288px;
+}
+.yyy1 {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 85px;
+  line-height: 128px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 1.7px;
+
+  color: #cda274;
+}
+.oop {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
+}
+.qqw {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 85px;
+  line-height: 128px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 1.7px;
+
+  color: #cda274;
+}
+.qww {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
+}
+.zzx {
+  font-family: "DM Serif Display";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 85px;
+  line-height: 128px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 1.7px;
+
+  color: #cda274;
+}
+.zxx {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
+}
